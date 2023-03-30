@@ -1,0 +1,29 @@
+body{
+    background-color: blue;
+    text-align: center;
+}
+
+h1{
+    color:aqua;
+    font-size: 70px;
+    text-transform: uppercase;
+}
+
+/* p{
+    background-color: khaki;
+} */
+
+.lorem{
+    background-color: springgreen;
+}
+
+.lorem_text{
+    font-size: large;
+    color: rgb(17, 186, 175);
+}
+
+.container{
+    background-color: rgb(20, 103, 125);
+    border: 2px solid green;
+    border-radius: 30px;
+}
