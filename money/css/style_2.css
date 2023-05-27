@@ -1,0 +1,22 @@
+.p{
+    width: 400px;
+    height: 400px;
+}
+.b{
+    position: absolute;
+    right:550px;
+    top: 70px;
+    font-size: 30px;
+}
+.n{
+    position: absolute;
+    font-size: 20px;
+    right:715px;
+    top: 130px;
+}
+.h{
+    position: absolute;
+    right:410px;
+    font-size: 20px;
+    top: 130px;
+}

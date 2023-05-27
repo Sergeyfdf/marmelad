@@ -1,0 +1,30 @@
+.image{
+
+width: 1400px;
+height: 556px;
+}
+.t{
+    position: absolute;
+    width: 116px;
+    height: 18px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 18px;
+    color: #000000;
+    top: 540px;
+}
+.r{
+    position: absolute;
+width: 340px;
+height: 200px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 18px;
+
+color: #000000;
+top: 250px;
+left: 600px;
+}
